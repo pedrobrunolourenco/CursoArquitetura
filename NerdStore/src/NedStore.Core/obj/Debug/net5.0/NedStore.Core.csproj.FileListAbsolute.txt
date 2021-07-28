@@ -1,0 +1,11 @@
+C:\CursoEP\NerdStore\src\NedStore.Core\bin\Debug\net5.0\NedStore.Core.deps.json
+C:\CursoEP\NerdStore\src\NedStore.Core\bin\Debug\net5.0\NedStore.Core.dll
+C:\CursoEP\NerdStore\src\NedStore.Core\bin\Debug\net5.0\ref\NedStore.Core.dll
+C:\CursoEP\NerdStore\src\NedStore.Core\bin\Debug\net5.0\NedStore.Core.pdb
+C:\CursoEP\NerdStore\src\NedStore.Core\obj\Debug\net5.0\NedStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoEP\NerdStore\src\NedStore.Core\obj\Debug\net5.0\NedStore.Core.AssemblyInfoInputs.cache
+C:\CursoEP\NerdStore\src\NedStore.Core\obj\Debug\net5.0\NedStore.Core.AssemblyInfo.cs
+C:\CursoEP\NerdStore\src\NedStore.Core\obj\Debug\net5.0\NedStore.Core.csproj.CoreCompileInputs.cache
+C:\CursoEP\NerdStore\src\NedStore.Core\obj\Debug\net5.0\NedStore.Core.dll
+C:\CursoEP\NerdStore\src\NedStore.Core\obj\Debug\net5.0\ref\NedStore.Core.dll
+C:\CursoEP\NerdStore\src\NedStore.Core\obj\Debug\net5.0\NedStore.Core.pdb
